@@ -1,1 +1,82 @@
-<p>motherrrr</p>
+body {
+  background-image: url("meat5.jpg");
+}
+
+a:link {
+  color: darkred;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #ff9900;
+  text-decoration: none;
+}
+
+a:hover {
+  color: yellow;
+  text-decoration: underline;
+}
+
+a:active {
+  color: white;
+  text-decoration: underline;
+}
+
+#maintitle {
+  text-align: center;
+  padding: 40px;
+}
+
+#links {
+  position: relative;
+  left: 40px;
+  background-color: #e60000;
+  width: 690px;
+  padding: 1px 10px 20px 10px;
+}
+
+#aboutme {
+  position: relative;
+  left: 60px;
+  background-color: #e60000;
+  width: 350px;
+  padding: 1px 10px 15px 10px;
+}
+
+#interests {
+  position: relative;
+  left: 480px;
+  bottom: 293px;
+  background-color: #e60000;
+  width: 250px;
+  padding: 1px 10px 15px 10px;
+}
+
+#resources {
+  position: relative;
+  bottom: 1110px;
+  left: 870px;
+  background-color: red;
+  width: 300px;
+  padding: 5px 20px 5px 20px;
+  border: 5px solid #ff6666;
+}
+
+#likes {
+  position: relative;
+  left: 40px;
+  bottom: 180px;
+  background-color: red;
+  width: 250px;
+  padding: 10px;
+}
+
+#dislikes {
+  position: relative;
+  left: 350px;
+  bottom: 414px;
+  background-color: red;
+  width: 150px;
+  height: 214px;
+  padding: 10px;
+}
